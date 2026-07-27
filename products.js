@@ -49,7 +49,7 @@ const PRODUCTS = [
     incluye: "4 rosas premium + topper + lazo satinado" },
 
   // ---------- PLANTAS ----------
-  { categoria: "plantas", nombre: "Fitonia + Soñadora", precioDesde: 40, imagen: "images/Fitonia.jpg",
+  { categoria: "plantas", nombre: "Fittonia + Soñadora", precioDesde: 40, imagen: "images/Fitonia.jpg",
     incluye: "Fitonia + maceta · consulta colores disponibles", destacado: true },
   { categoria: "plantas", nombre: "Mini Anturios Corazón", precio: 50, imagen: "images/Anturio.jpg",
     incluye: "Mini anturio + bolsa + lazo satinado", destacado: true },
