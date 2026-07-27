@@ -25,7 +25,7 @@
 
 const PRODUCTS = [
   // ---------- RAMOS (incluye Box) ----------
-  { categoria: "ramos", nombre: "Tiempo Real", precio: 130, imagen: "images/tiempo_real.jpg",
+  { categoria: "ramos", nombre: "Bouquet Novia", precio: 140, imagen: "images/Bouquet_Novia_-_Morado.jpg",
     incluye: "Ramo de mini rosas + follaje + lazo satinado", destacado: true },
   { categoria: "ramos", nombre: "Dulce Amor Box", precio: 110, imagen: "images/dulce_amor_box.jpg",
     incluye: "12 rosas premium + topper + lazo satinado", destacado: true },
