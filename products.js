@@ -25,9 +25,9 @@
 
 const PRODUCTS = [
   // ---------- RAMOS (incluye Box) ----------
-  { categoria: "ramos", nombre: "Bouquet Novia", precio: 140, imagen: "images/Bouquet_Novia_-_Morado.jpg",
-    incluye: "Ramo de mini rosas + follaje + lazo satinado", destacado: true },
-  { categoria: "ramos", nombre: "Dulce Amor Box", precio: 110, imagen: "images/dulce_amor_box.jpg",
+  { categoria: "ramos", nombre: "Bouquet Novia", precio: 140, imagen: "images/Bouquet_Novia_-_Perla.jpg",
+    incluye: "Rosas premiun + follaje + lazo satinado", destacado: true },
+  { categoria: "ramos", nombre: "Ramo Tulipanes", precio: 150, imagen: "images/Ramo Tulipanes.jpg",
     incluye: "12 rosas premium + topper + lazo satinado", destacado: true },
   { categoria: "ramos", nombre: "Amor Eterno", precio: 130, imagen: "images/amor_eterno.jpg",
     incluye: "6 rosas rojas + 6 rosas rosadas + lirios + follaje + lazo satinado" },
@@ -49,9 +49,9 @@ const PRODUCTS = [
     incluye: "4 rosas premium + topper + lazo satinado" },
 
   // ---------- PLANTAS ----------
-  { categoria: "plantas", nombre: "Orquídea", precioDesde: 130, imagen: "images/orquidea_purpura.jpg",
-    incluye: "Orquídea + maceta · consulta colores disponibles", destacado: true },
-  { categoria: "plantas", nombre: "Mini Anturios Corazón", precio: 50, imagen: "images/anturios.jpg",
+  { categoria: "plantas", nombre: "Orquídea", precioDesde: 40, imagen: "images/Fitonia.jpg",
+    incluye: "Fitonia + maceta · consulta colores disponibles", destacado: true },
+  { categoria: "plantas", nombre: "Mini Anturios Corazón", precio: 50, imagen: "images/Anturio.jpg",
     incluye: "Mini anturio + bolsa + lazo satinado", destacado: true },
   { categoria: "plantas", nombre: "Orquídea Amarilla", precioDesde: 130, imagen: "images/orquidea_amarilla.jpg",
     incluye: "Orquídea + maceta · consulta colores disponibles" },
