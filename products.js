@@ -25,7 +25,7 @@
 
 const PRODUCTS = [
   // ---------- RAMOS (incluye Box) ----------
-  { categoria: "ramos", nombre: "Bouquet Novia", precio: 140, imagen: "images/Bouquet_Novia_-_Perla.jpg",
+  { categoria: "ramos", nombre: "Bouquet Pienso en Ti", imagen: "images/Bouquet_Novia_-_Perla.jpg",
     incluye: "Rosas premiun + follaje + lazo satinado", destacado: true },
   { categoria: "ramos", nombre: "Box Detalles de Amor", precio: 50, imagen: "images/caja box.jpg",
     incluye: "12 rosas premium + topper + lazo satinado", destacado: true },
@@ -49,7 +49,7 @@ const PRODUCTS = [
     incluye: "4 rosas premium + topper + lazo satinado" },
 
   // ---------- PLANTAS ----------
-  { categoria: "plantas", nombre: "Orquídea", precioDesde: 40, imagen: "images/Fitonia.jpg",
+  { categoria: "plantas", nombre: "Fitonia + Soñadora", precioDesde: 40, imagen: "images/Fitonia.jpg",
     incluye: "Fitonia + maceta · consulta colores disponibles", destacado: true },
   { categoria: "plantas", nombre: "Mini Anturios Corazón", precio: 50, imagen: "images/Anturio.jpg",
     incluye: "Mini anturio + bolsa + lazo satinado", destacado: true },
