@@ -27,7 +27,7 @@ const PRODUCTS = [
   // ---------- RAMOS (incluye Box) ----------
   { categoria: "ramos", nombre: "Bouquet Novia", precio: 140, imagen: "images/Bouquet_Novia_-_Perla.jpg",
     incluye: "Rosas premiun + follaje + lazo satinado", destacado: true },
-  { categoria: "ramos", nombre: "Ramo Tulipanes", precio: 150, imagen: "images/Ramo Tulipanes.jpg",
+  { categoria: "ramos", nombre: "Ramo Tulipanes", precio: 150, imagen: "images/Ramo Girasol.PNG",
     incluye: "12 rosas premium + topper + lazo satinado", destacado: true },
   { categoria: "ramos", nombre: "Amor Eterno", precio: 130, imagen: "images/amor_eterno.jpg",
     incluye: "6 rosas rojas + 6 rosas rosadas + lirios + follaje + lazo satinado" },
