@@ -27,7 +27,7 @@ const PRODUCTS = [
   // ---------- RAMOS (incluye Box) ----------
   { categoria: "ramos", nombre: "Bouquet Novia", precio: 140, imagen: "images/Bouquet_Novia_-_Perla.jpg",
     incluye: "Rosas premiun + follaje + lazo satinado", destacado: true },
-  { categoria: "ramos", nombre: "Ramo Tulipanes", precio: 150, imagen: "images/Ramo Girasol.PNG",
+  { categoria: "ramos", nombre: "Box Detalles de Amor", precio: 50, imagen: "images/caja box.jpg",
     incluye: "12 rosas premium + topper + lazo satinado", destacado: true },
   { categoria: "ramos", nombre: "Amor Eterno", precio: 130, imagen: "images/amor_eterno.jpg",
     incluye: "6 rosas rojas + 6 rosas rosadas + lirios + follaje + lazo satinado" },
@@ -59,9 +59,9 @@ const PRODUCTS = [
     incluye: "Suculenta + caja de regalo" },
 
   // ---------- JOYAS ARTESANALES (técnica Miyuki) ----------
-  { categoria: "joyas", nombre: "Pulseras Miyuki", imagen: "images/joyas_1.jpg",
+  { categoria: "joyas", nombre: "Aretes Miyuki", imagen: "images/joyas 1.png",
     incluye: "Set de pulseras tejidas a mano · consulta modelos", destacado: true },
-  { categoria: "joyas", nombre: "Aretes Florales", imagen: "images/joyas_5.jpg",
+  { categoria: "joyas", nombre: "Aretes Florales", imagen: "images/joyas_4.jpg",
     incluye: "Aretes tejidos técnica Miyuki", destacado: true },
   { categoria: "joyas", nombre: "Pulseras con dijes", imagen: "images/joyas_3.jpg",
     incluye: "Pulseras con dije de corazón · consulta modelos" },
@@ -71,9 +71,9 @@ const PRODUCTS = [
     incluye: "Anillo tejido técnica Miyuki" },
 
   // ---------- VELAS AROMÁTICAS ----------
-  { categoria: "velas", nombre: "Vela Corazón", precioDesde: 18, imagen: "images/velas_1.jpg",
+  { categoria: "velas", nombre: "Vela Corazón", precioDesde: 18, imagen: "images/velas 1.png",
     incluye: "Vela artesanal + caja · cera de soya con aromas naturales", destacado: true },
-  { categoria: "velas", nombre: "Vela Girasol", precioDesde: 18, imagen: "images/velas_2.jpg",
+  { categoria: "velas", nombre: "Vela Girasol", precioDesde: 18, imagen: "images/velas 2.png",
     incluye: "Vela artesanal + caja · cera de soya con aromas naturales", destacado: true },
 ];
 
