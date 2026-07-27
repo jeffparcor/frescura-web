@@ -71,9 +71,9 @@ const PRODUCTS = [
     incluye: "Anillo tejido técnica Miyuki" },
 
   // ---------- VELAS AROMÁTICAS ----------
-  { categoria: "velas", nombre: "Vela Corazón", precioDesde: 18, imagen: "images/Vela 1_flor_rosa.jpg",
+  { categoria: "velas", nombre: "Vela Corazón", precioDesde: 18, imagen: "images/foto3_girasol.jpg",
     incluye: "Vela artesanal + caja · cera de soya con aromas naturales", destacado: true },
-  { categoria: "velas", nombre: "Vela Girasol", precioDesde: 18, imagen: "images/Vela 2_corazon_rojo.jpg",
+  { categoria: "velas", nombre: "Vela Girasol", precioDesde: 18, imagen: "images/foto4_corazon_rosa.jpg",
     incluye: "Vela artesanal + caja · cera de soya con aromas naturales", destacado: true },
 ];
 
