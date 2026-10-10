@@ -27,7 +27,7 @@ const PRODUCTS = [
   // ---------- RAMOS (incluye Box) ----------
   { categoria: "ramos", nombre: "Bouquet Pienso en Ti", imagen: "images/Bouquet_Novia_-_Perla.jpg",
     incluye: "Rosas premiun + follaje + lazo satinado", destacado: true },
-  { categoria: "ramos", nombre: "Box Detalles de Amor", precio: 50, imagen: "images/caja box.jpg",
+  { categoria: "ramos", nombre: "Box Detalles de Amor", precio: 70, imagen: "images/caja box.jpg",
     incluye: "12 rosas premium + topper + lazo satinado", destacado: true },
   { categoria: "ramos", nombre: "Amor Eterno", precio: 130, imagen: "images/amor_eterno.jpg",
     incluye: "6 rosas rojas + 6 rosas rosadas + lirios + follaje + lazo satinado" },
